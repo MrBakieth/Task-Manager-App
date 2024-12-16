@@ -2,12 +2,6 @@
 
 **Task Manager App**, adından da anlaşılacağı üzere bir görev yönetim uygulamasıdır. Bu uygulama ile görevlerinizi **tarih**, **saat** ve **açıklama** gibi detaylarla girip, not aldığınız görevinize **ne kadar kaldığını** görebilirsiniz. Proje şu an **geliştirme aşamasında** olup, sürekli olarak yeni özelliklerle güçlendirilmektedir.
 
-## 🚀 Proje Özellikleri
-
-- **Görev Ekleme**: Kullanıcılar tarih, saat ve açıklama ile yeni görevler ekleyebilir.
-- **Zaman Geri Sayımı**: Eklediğiniz görevlerinize ne kadar kaldığını görme imkanı.
-- **Görev Düzenleme ve Silme**: Eklenen görevler düzenlenebilir veya silinebilir.
-
 ## ⚙️ Kullanılan Teknolojiler
 
 - **Frontend**: React.js, Vite
@@ -16,7 +10,9 @@
 
 ## 📦 Gelecek Planları
 
-Bu proje, daha gelişmiş özelliklerle donatılacak ve ilerleyen zamanlarda kullanıcıların **giriş yapabilmesi** ve **kişisel görevleri** daha güvenli bir şekilde saklayabilmesi için bir **veritabanı entegrasyonu** yapılması planlanmaktadır. Ayrıca, kullanıcı doğrulama işlemleri ve şifreleme gibi ek güvenlik özellikleri de eklenmesi hedeflenmektedir.
+- **Görev Ekleme**: Kullanıcılar tarih, saat ve açıklama ile yeni görevler ekleyebilir.
+- **Zaman Geri Sayımı**: Eklediğiniz görevlerinize ne kadar kaldığını görme imkanı.
+- **Görev Düzenleme ve Silme**: Eklenen görevler düzenlenebilir veya silinebilir.
 
 ## 🛠️ Kurulum
 
