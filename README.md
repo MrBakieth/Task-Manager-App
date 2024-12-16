@@ -14,6 +14,10 @@
 - **Zaman Geri Sayımı**: Eklediğiniz görevlerinize ne kadar kaldığını görme imkanı.
 - **Görev Düzenleme ve Silme**: Eklenen görevler düzenlenebilir veya silinebilir.
 
+## ⚠️ Uyarı
+
+Planlar konusunda değişiklikler olabilir. Geliştirme süreci devam etmekte olduğu için bazı özellikler zaman içinde değişebilir veya farklı bir şekillerde uygulanabilir.
+
 ## 🛠️ Kurulum
 
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
